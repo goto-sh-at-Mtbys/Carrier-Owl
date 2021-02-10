@@ -3,9 +3,10 @@ subject: 'cat:physics.comp-ph OR cat:physics.chem-ph'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        ring polymer: 3
+        polymer: 3
+        ring: 1
+        topology:2
 
 # 通知の閾値
-score_threshold: 0
+score_threshold: 3
